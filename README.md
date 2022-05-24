@@ -4,7 +4,7 @@ This is a small python script for attempting to parse Windows CE 7 registry
 hives.
 
 This script is heavily influenced by Willem Jan Hengeveld's
-<https://github.com/nlitsme/hvtool.git> (commit
+<https://github.com/nlitsme/hvtool> (commit
 b639d697fb18fcf4c400ff67ef0581cd5f9ee452). This script is essentially a
 dependency-less rewrite of hvtool for python, with some adjustments to work
 for hive files from CE 7 systems (rather than CE 6 like in the original
